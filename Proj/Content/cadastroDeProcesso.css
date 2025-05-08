@@ -1,0 +1,55 @@
+﻿/*table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    display: block !important;
+}*/
+
+/*thead {
+    display: block !important;
+}*/
+
+/*tbody {
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+    height: 250px !important;
+}*/
+
+/*td, th {
+    min-width: 108px !important;
+    border: dashed 1px lightblue !important;
+    padding: 2px !important;
+}*/
+
+/*table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
+    display: block !important;
+}
+thead {
+    background-color: #EFEFEF !important;
+}
+thead, tbody {
+    display: block !important;
+}
+
+td, th {
+    min-width: 120px !important;
+
+    height: 25px !important;
+    border: dashed 1px lightblue !important;
+}*/
+.bb-table-cadProc {
+  height: 140px !important;
+  overflow-y: scroll  !important;
+}
+.dva-index {
+    position: absolute !important;
+    left: 0px !important;
+    top: 0px !important;
+    z-index: 30000 !important;
+}
+
+td .bb-graph{
+    width:100px !important;
+}

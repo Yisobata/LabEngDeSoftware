@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELY005610\\OneDrive\\Desktop\\LabEngSoft\\Proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0DC951-1A98-4CCB-A7E1-A820B593ED18}|LabEngSoft.csproj|c:\\users\\ely005610\\onedrive\\desktop\\labengsoft\\proj\\listarquadras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BD0DC951-1A98-4CCB-A7E1-A820B593ED18}|LabEngSoft.csproj|solutionrelative:listarquadras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarQuadras.aspx",
+              "DocumentMoniker": "C:\\Users\\ELY005610\\OneDrive\\Desktop\\LabEngSoft\\Proj\\ListarQuadras.aspx",
+              "RelativeDocumentMoniker": "ListarQuadras.aspx",
+              "ToolTip": "C:\\Users\\ELY005610\\OneDrive\\Desktop\\LabEngSoft\\Proj\\ListarQuadras.aspx",
+              "RelativeToolTip": "ListarQuadras.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-05T23:08:19.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
