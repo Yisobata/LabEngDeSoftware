@@ -1,0 +1,12 @@
+C:\Users\ELY005610\Downloads\git\neg\bin\Debug\net8.0\neg.deps.json
+C:\Users\ELY005610\Downloads\git\neg\bin\Debug\net8.0\neg.dll
+C:\Users\ELY005610\Downloads\git\neg\bin\Debug\net8.0\neg.pdb
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.AssemblyInfoInputs.cache
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.AssemblyInfo.cs
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.csproj.CoreCompileInputs.cache
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.sourcelink.json
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.dll
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\refint\neg.dll
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\neg.pdb
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net8.0\ref\neg.dll

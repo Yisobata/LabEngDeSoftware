@@ -1,0 +1,12 @@
+C:\Users\ELY005610\Downloads\git\entidade\bin\Debug\net8.0\entidade.deps.json
+C:\Users\ELY005610\Downloads\git\entidade\bin\Debug\net8.0\entidade.dll
+C:\Users\ELY005610\Downloads\git\entidade\bin\Debug\net8.0\entidade.pdb
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.AssemblyInfoInputs.cache
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.AssemblyInfo.cs
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.csproj.CoreCompileInputs.cache
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.sourcelink.json
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.dll
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\refint\entidade.dll
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\entidade.pdb
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net8.0\ref\entidade.dll

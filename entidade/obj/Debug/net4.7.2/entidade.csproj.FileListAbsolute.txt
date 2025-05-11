@@ -1,0 +1,6 @@
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net4.7.2\entidade.csproj.AssemblyReference.cache
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net4.7.2\entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net4.7.2\entidade.AssemblyInfoInputs.cache
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net4.7.2\entidade.AssemblyInfo.cs
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net4.7.2\entidade.csproj.CoreCompileInputs.cache
+C:\Users\ELY005610\Downloads\git\entidade\obj\Debug\net4.7.2\entidade.sourcelink.json

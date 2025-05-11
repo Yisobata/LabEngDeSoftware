@@ -1,0 +1,10 @@
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.csproj.AssemblyReference.cache
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.AssemblyInfoInputs.cache
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.AssemblyInfo.cs
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.csproj.CoreCompileInputs.cache
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.sourcelink.json
+C:\Users\ELY005610\Downloads\git\neg\bin\Debug\net4.8\neg.dll
+C:\Users\ELY005610\Downloads\git\neg\bin\Debug\net4.8\neg.pdb
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.dll
+C:\Users\ELY005610\Downloads\git\neg\obj\Debug\net4.8\neg.pdb

@@ -1,0 +1,12 @@
+C:\Users\ELY005610\Downloads\git\dal\bin\Debug\net8.0\dal.deps.json
+C:\Users\ELY005610\Downloads\git\dal\bin\Debug\net8.0\dal.dll
+C:\Users\ELY005610\Downloads\git\dal\bin\Debug\net8.0\dal.pdb
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.AssemblyInfoInputs.cache
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.AssemblyInfo.cs
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.sourcelink.json
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.dll
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\refint\dal.dll
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\dal.pdb
+C:\Users\ELY005610\Downloads\git\dal\obj\Debug\net8.0\ref\dal.dll
